@@ -1,0 +1,19 @@
+{
+  "name": "pfc",
+  "version": "1.0.0",
+  "description": "pierre-feuille-ciseaux",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [
+    "pierre",
+    "feuille",
+    "ciseaux"
+  ],
+  "author": "@eautarie/pfc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
