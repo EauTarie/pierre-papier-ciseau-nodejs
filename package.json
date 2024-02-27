@@ -1,5 +1,5 @@
 {
-  "name": "pfc",
+  "name": "@eautarie/pfc",
   "version": "1.0.0",
   "description": "pierre-feuille-ciseaux",
   "main": "index.js",
@@ -9,11 +9,18 @@
   "keywords": [
     "pierre",
     "feuille",
-    "ciseaux"
+    "ciseaux",
+    "gaming",
+    "game",
+    "minigame"
   ],
-  "author": "@eautarie/pfc",
+  "author": "eau tarie",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "repository": {
+    "type":"git",
+    "url": "git+https://github.com/EauTarie/pierre-papier-ciseau-nodejs"
   }
 }
